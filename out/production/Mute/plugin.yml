@@ -1,0 +1,8 @@
+name: Mute
+version: 1.0
+main: me.aerobyte.mute.Main
+author: aerobyte
+
+commands:
+  mute:
+    aliases: [m]
